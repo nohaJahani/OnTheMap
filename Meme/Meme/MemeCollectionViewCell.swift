@@ -16,5 +16,4 @@ class MemeCollectionViewCell: UICollectionViewCell {
     // MARK: Outlets
     
     @IBOutlet weak var memedImage:UIImageView!
-    
 }
